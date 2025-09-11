@@ -3,7 +3,7 @@
 A curated list of privacy-focused tools for PCs.  
 Helps users protect their data, improve security, and maintain privacy online.
 
-[🌐 Visit Website](https://pc-privacytools.org) | [💬 Contribute](https://github.com/yourusername/pc-privacytools/issues)
+[🌐 Visit Website](https://pc-privacytools.org) | [💬 Contribute](https://github.com/osw2025/pc-privacy-list/issues)
 
 ---
 
@@ -24,8 +24,8 @@ Helps users protect their data, improve security, and maintain privacy online.
 ## 📢 Contributing
 
 Contributions welcome!  
-- Open an [issue](https://github.com/yourusername/pc-privacytools/issues) to suggest new tools.  
-- Submit a [pull request](https://github.com/yourusername/pc-privacytools/pulls) with improvements.  
+- Open an [issue](https://github.com/osw2025/pc-privacy-list/issues) to suggest new tools.  
+- Submit a [pull request](https://github.com/osw2025/pc-privacy-list/pulls) with improvements.  
 
 Please follow the existing table format for new entries.
 
@@ -39,7 +39,7 @@ This project is open-source. See [LICENSE](LICENSE) for details.
 
 ## ⭐ GitHub Badges
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/pc-privacytools?style=social)  
-![Contributors](https://img.shields.io/github/contributors/yourusername/pc-privacytools)  
-![Issues](https://img.shields.io/github/issues/yourusername/pc-privacytools)
+![GitHub stars](https://img.shields.io/github/stars/osw2025/pc-privacy-list?style=social)  
+![Contributors](https://img.shields.io/github/contributors/osw2025/pc-privacy-list)  
+![Issues](https://img.shields.io/github/issues/osw2025/pc-privacy-list)
 

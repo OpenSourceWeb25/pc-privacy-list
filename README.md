@@ -45,9 +45,4 @@ This project is open-source. See [LICENSE](LICENSE) for details.
 
 ---
 
-## ⭐ GitHub Badges
-
-![GitHub stars](https://img.shields.io/github/stars/osw2025/pc-privacy-list?style=social)  
-![Contributors](https://img.shields.io/github/contributors/osw2025/pc-privacy-list)  
-![Issues](https://img.shields.io/github/issues/osw2025/pc-privacy-list)
 

@@ -7,19 +7,27 @@ Helps users protect their data, improve security, and maintain privacy online.
 
 ---
 
-## 🔒 Categories & Tools
+## 🔒 Categories
 
-| Category | Description | Example Tools |
-|----------|-------------|---------------|
-| **🌐 Web Browsers** | Privacy-respecting browsers | Firefox, Brave, Tor Browser |
-| **💬 Messaging** | Secure messaging apps | Signal, Threema, Element |
-| **📧 Email** | Encrypted and private email services | ProtonMail, Tutanota |
-| **🛡️ VPNs** | Tools for anonymous browsing | Mullvad, ProtonVPN |
-| **🔑 Password Managers** | Secure password storage | Bitwarden, KeePassXC |
-| **💻 Operating Systems** | Privacy-focused OS options | Tails, Qubes OS |
-| **🛠️ Utilities** | Other privacy-enhancing tools | VeraCrypt, OBS Studio |
-
----
+- 🌐 Browsers  
+- 🧩 Browser Extensions  
+- 💬 Messengers  
+- 📧 Email  
+- 🛡️ VPN  
+- 🔑 Password Managers  
+- ☁️ Cloud Storage  
+- 🔒 Encryption  
+- 🔍 Search Engines  
+- 📝 Office & Productivity  
+- 📤 File Sharing  
+- 🔐 Two-Factor Auth  
+- 📅 Calendars  
+- 🗒️ Note-Taking  
+- 🗣️ Social Networks  
+- 🌐 Hosting & Domains  
+- 📰 RSS Readers  
+- 💻 Operating Systems  
+- 🤖 AI Chat Software  
 
 ## 📢 Contributing
 

@@ -32,8 +32,8 @@ Helps users protect their data, improve security, and maintain privacy online.
 ## 📢 Contributing
 
 Contributions welcome!  
-- Open an [issue](https://github.com/OpenZenta/pc-privacy-list/issues) to suggest new tools.  
-- Submit a [pull request](https://github.com/OpenZenta/pc-privacy-list/pulls) with improvements.  
+- Open an [issue](https://github.com/OpenSourceWeb25/pc-privacy-list/issues) to suggest new tools.  
+- Submit a [pull request](https://github.com/OpenSourceWeb25/pc-privacy-list/pulls) with improvements.  
 
 Please follow the existing table format for new entries.
 

@@ -3,7 +3,7 @@
 A curated list of privacy-focused tools for PCs.  
 Helps users protect their data, improve security, and maintain privacy online.
 
-[🌐 Visit Website](https://pc-privacytools.org) | [💬 Contribute](https://github.com/OpenZenta/pc-privacy-list/issues)
+[🌐 Visit Website](https://pc-privacytools.org) | [💬 Contribute](https://github.com/OpenSourceWeb25/pc-privacy-list/issues)
 
 ---
 
